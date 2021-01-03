@@ -5,7 +5,7 @@ public class LeapYear {
 
     	int year;
     	Scanner scan = new Scanner(System.in);
-    	System.out.println("Enter y Year:");
+    	System.out.println("Enter ny Year:");
     	year = scan.nextInt();
     	scan.close();
         boolean isLeap = false;
